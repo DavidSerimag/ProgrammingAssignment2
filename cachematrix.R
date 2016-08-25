@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## 2 functions to improve the computation of an inverse of a square matrix
+## If it's already computed or have no changes, it returns cached data
 
 ## Function that creates list where matrix and its inverse are cached
 
